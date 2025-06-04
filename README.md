@@ -1,8 +1,34 @@
-## Hi there 👋
+
+<h1 align="center">🔥 안녕하세요. 풀스택 개발자 김현진 입니다. 🔥</h1>
+
+<div align=center>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BZzzzi&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+  </a>
+</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BZzzzi&theme=react&hide_border=true" />
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BZzzzi&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+
+<!-- GitHub stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=BZzzzi&show_icons=true&theme=react&hide_border=true" />
+
+<!-- Top languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BZzzzi&layout=compact&theme=react&hide_border=true" />
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line;Second+line&font=Fira+Code)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Hello%2C+World!;Frontend+Developer;지속+가능한+코드를+고민하는+개발자;Let's+build+something+amazing+together)](https://git.io/typing-svg)
 
 ![Baekjoon](http://mazassumnida.wtf/api/generate_badge?boj=khj23465)
+
+<!-- ![KHJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=BZzzzi&show_icons=true&theme=transparent) -->
+
+![Night Owl](https://github-readme-stats.vercel.app/api?username=BZzzzi&show_icons=true&theme=transparent&count_private=true&hide_title=true&hide_border=true&custom_title=I'm%20a%20night%20🦉&card_width=400&include_all_commits=true&rank_icon=github)
+
+## ⏰ Time of Contribution
+
+![Night Owl](https://github-readme-stats.vercel.app/api?username=BZ&show_icons=true&theme=transparent&count_private=true&hide_title=true&hide_border=true&custom_title=I'm%20a%20night%20🦉)
 
 ## 🛠️ Tech Stack
 
