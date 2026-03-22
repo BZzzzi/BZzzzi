@@ -29,7 +29,7 @@
 ## 🛠️ Skill
 <div>
   <img align="left" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BZzzzi&layout=donut&theme=tokyonight&hide_border=true" />
-  <img width="543" src="https://streak-stats.demolab.com?user=BZzzzi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://mazandi.herokuapp.com/api?handle=khj23465&theme=dark" width="440" valign="top" />
 </div>
 
 <br>
@@ -55,15 +55,6 @@
   <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"> 
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"> 
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white">
-</div>
-
-<br>
-<br>
-
-## 💯 BaekJoon
-<div>
-  <img src="http://mazassumnida.wtf/api/generate_badge?boj=khj23465" valign="top" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://mazandi.herokuapp.com/api?handle=khj23465&theme=deepdark" valign="top" />
 </div>
 
 <br>
