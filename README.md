@@ -61,6 +61,5 @@
 <br>
 
 ## 💌 Connect with Me
-[![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/312a38d6416880e48162c167a2cc2ed9?source=copy_link)
 [![Naver Mail](https://img.shields.io/badge/Naver_Mail-03C75A?style=flat-square&logo=naver&logoColor=white)](mailto:khj23465@naver.com)
 [![Tistory](https://img.shields.io/badge/Tistory-EB531F?style=flat-square&logo=tistory&logoColor=white)](https://khj23465.tistory.com)
