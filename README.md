@@ -21,7 +21,8 @@
 - <a href="https://github.com/BZzzzi/Rolling">코드잇 스프린트 프론트엔드 롤링페이퍼 웹 프로젝트: Rolling</a> **[ React, JS ]**
 
 ### Personal
-- <a href="https://github.com/BZzzzi/CodingTestJS">JS 코딩테스트 문제 풀이 아카이브</a> **[ JS ]**
+- <a href="https://github.com/BZzzzi/CodingTestJS">코딩테스트 문제 풀이 아카이브</a> **[ JS, Java ]**
+- <a href="https://github.com/BZzzzi/react-study-projects">리액트 스터디 프로젝트</a> **[ React, Vite ]**
 
 <br>
 <br>
